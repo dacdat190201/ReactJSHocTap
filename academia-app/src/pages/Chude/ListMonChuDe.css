@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(132, 203, 198);
+}
+.DanhSach {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(241, 241, 241);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.searchChuDe {
+  background-color: white;
+  margin-left: 30px;
+  margin-right: 30px;
+}

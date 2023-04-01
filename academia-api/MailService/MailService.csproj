@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>dc2d7a4c-0b39-4d40-b8d4-87dbdb3e9895</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.1.0" />
+	<PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>

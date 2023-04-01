@@ -1,0 +1,10 @@
+.bg{
+    background-color: white;
+}
+.container-admin{
+    display: flex;
+    margin-top: 10px;
+}
+.orthers{
+    flex: 4;
+}

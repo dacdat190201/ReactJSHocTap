@@ -1,0 +1,52 @@
+.bg {
+  background-color: white;
+}
+.home {
+  display: flex;
+}
+.homeContainer {
+  flex: 6;
+}
+.mucluc {
+  background-color: rgb(8, 184, 190);
+  color: white;
+}
+.text-baihoc {
+  text-align: center;
+  margin-left: -100px;
+}
+.text-baihoc1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(9, 204, 204);
+}
+.chuong-tab {
+  background-color: rgb(40, 231, 238);
+  color: rgb(255, 255, 255);
+}
+.baihoc-tab :hover {
+  background-color: rgb(0, 255, 225);
+}
+.noidungbaihoc {
+  margin-left: 50px;
+}
+.content-noidung {
+  margin-right: 300px;
+  margin-left: 200px;
+}
+.head-row {
+  width: 1100px;
+  margin-left: 20px;
+}
+.head-col1 {
+  border-right: 0.5px solid rgb(0, 0, 0);
+}
+
+.noidung-hover :hover {
+  background-color: darkgoldenrod;
+}
+.baihoctiep {
+  background-color: rgb(40, 231, 238);
+  text-align: center;
+  border-radius: 15px;
+  color: white;
+}

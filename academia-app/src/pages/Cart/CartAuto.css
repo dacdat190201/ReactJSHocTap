@@ -1,0 +1,18 @@
+.bg-cart {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  height: 1000px;
+}
+.table {
+  width: 1100px;
+}
+.btn-tieptucmua {
+  background-color: darkorange;
+  color: aliceblue;
+  border-radius: 50px;
+}
+.hjk {
+  margin-left: 30px;
+}

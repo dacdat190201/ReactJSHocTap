@@ -1,0 +1,16 @@
+.Teams{
+    display: flex;
+    flex-wrap: wrap ;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(241, 241, 241);
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+.bg{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}

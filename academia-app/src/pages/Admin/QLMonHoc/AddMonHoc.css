@@ -1,0 +1,11 @@
+input{
+    float: right;
+    background-color: rgb(229, 226, 226);
+    margin-bottom: 2px;
+    height: 10px;
+}
+fieldset{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
